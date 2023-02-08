@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class GsonParsingTest {
+public class JacksonParsingTest {
 
     ClassLoader cl = FilesParsingTest.class.getClassLoader();
 
